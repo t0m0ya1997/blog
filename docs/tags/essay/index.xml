@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Tomoya Hirakawa</title>
-    <link>https://t0m0ya1997.github.io/blog/categories/blog/</link>
-    <description>Recent content in blog on Tomoya Hirakawa</description>
+    <title>essay on Tomoya Hirakawa</title>
+    <link>https://t0m0ya1997.github.io/blog/tags/essay/</link>
+    <description>Recent content in essay on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/essay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://t0m0ya1997.github.io/blog/post/hello/</link>
