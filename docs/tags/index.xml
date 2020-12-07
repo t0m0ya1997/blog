@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tomoya Hirakawa</title>
-    <link>https://t0m0ya1997.github.io/blog/docs/tags/</link>
+    <link>https://t0m0ya1997.github.io/blog/tags/</link>
     <description>Recent content in Tags on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://t0m0ya1997.github.io/blog/docs/tags/blog/</link>
+      <link>https://t0m0ya1997.github.io/blog/tags/blog/</link>
       <pubDate>Mon, 07 Dec 2020 17:14:37 +0900</pubDate>
       
-      <guid>https://t0m0ya1997.github.io/blog/docs/tags/blog/</guid>
+      <guid>https://t0m0ya1997.github.io/blog/tags/blog/</guid>
       <description></description>
     </item>
     
