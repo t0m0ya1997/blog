@@ -5,6 +5,30 @@
     <link>https://t0m0ya1997.github.io/blog/docs/</link>
     <description>Recent content on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>jp</language><atom:link href="https://t0m0ya1997.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>jp</language>
+    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://t0m0ya1997.github.io/blog/docs/post/hello/</link>
+      <pubDate>Mon, 07 Dec 2020 17:14:37 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/docs/post/hello/</guid>
+      <description>こんにちは，本日よりこちらのリンクでブログを始めます．</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://t0m0ya1997.github.io/blog/docs/about/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/docs/about/</guid>
+      <description>Tomoya HIRAKAWA 高専卒の情報系大学院生．
+サボテンと同棲しております．
+Background 2013.4 - 2018.3 久留米高専制御情報工学科
+2018.4 - 2020.3 久留米高専専攻科（学士)
+2020.4 - current 東京大学大学院新領域創成科学研究科
+Publications  Distributed compressed hyper spectral image sensing using ADMM(2018 International Workshop on Advanced Image Technology, IWAIT 2018) Image recognition using multi-layer sparse feature extraction with ADMM(Proceedings of SPIE - The International Society for Optical Engineering) Image classification on projection based multilayer sparse representation(2019 IEEE 8th Global Conference on Consumer Electronics, GCCE 2019) Image Classification by Multilayer Feature Extraction Based on Nuclear Norm Minimization(Proceedings - 2019 International Symposium on Intelligent Signal Processing and Communication Systems, ISPACS 2019)  Awards  ISPACS Best Student Paper Award (2019.</description>
+    </item>
+    
   </channel>
 </rss>

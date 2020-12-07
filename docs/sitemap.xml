@@ -3,19 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://t0m0ya1997.github.io/blog/docs/categories/</loc>
+    <loc>https://t0m0ya1997.github.io/blog/docs/tags/blog/</loc>
+    <lastmod>2020-12-07T17:14:37+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://t0m0ya1997.github.io/blog/docs/series/</loc>
+    <loc>https://t0m0ya1997.github.io/blog/docs/categories/blog/</loc>
+    <lastmod>2020-12-07T17:14:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t0m0ya1997.github.io/blog/docs/categories/</loc>
+    <lastmod>2020-12-07T17:14:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t0m0ya1997.github.io/blog/docs/post/hello/</loc>
+    <lastmod>2020-12-07T17:14:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t0m0ya1997.github.io/blog/docs/post/</loc>
+    <lastmod>2020-12-07T17:14:37+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://t0m0ya1997.github.io/blog/docs/tags/</loc>
+    <lastmod>2020-12-07T17:14:37+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://t0m0ya1997.github.io/blog/docs/</loc>
+    <lastmod>2020-12-07T17:14:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t0m0ya1997.github.io/blog/docs/about/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t0m0ya1997.github.io/blog/docs/series/</loc>
   </url>
   
 </urlset>
