@@ -1,4 +1,4 @@
-baseURL = "/blog"
+baseURL = "https://t0m0ya1997.github.io/blog/"
 publishDir = "docs"
 title = "Tomoya Hirakawa"
 #theme = "erblog"
