@@ -1,7 +1,7 @@
 baseURL = "https://t0m0ya1997/github.io/blog"
 publishDir = "docs"
 title = "Tomoya Hirakawa"
-theme = "erblog"
+#theme = "erblog"
 paginate = 3
 languageCode = "jp"
 DefaultContentLanguage = "jp"
