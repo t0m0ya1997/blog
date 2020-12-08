@@ -1,7 +1,7 @@
 baseURL = "https://t0m0ya1997.github.io/blog"
 publishDir = "docs"
 title = "Tomoya Hirakawa"
-#theme = "erblog"
+theme = "erblog"
 paginate = 3
 languageCode = "jp"
 DefaultContentLanguage = "jp"
@@ -18,8 +18,6 @@ footnoteReturnLinkContents = "^"
     notice_color = "red"
     index_posts_num = 5
     google_search = true
-    math = false
-    katex = true
     # logo = "icon.jpg"
     # logo = "//blog.ertuil.top/avater.png"
     bio = """
