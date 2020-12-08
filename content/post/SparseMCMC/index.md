@@ -5,6 +5,7 @@ date: 2020-12-08T10:24:16+09:00
 tags: ["mixture model", "exchange MCMC", "Bayesian inference", "混合モデル", "交換モンテカルロ法", "ベイズ推定", "スパース混合回帰モデル"]
 categories: ["research"]
 katex: true
+math: true
 draft: false
 ---
 
