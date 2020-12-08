@@ -5,6 +5,7 @@ title = "Tomoya Hirakawa"
 paginate = 3
 languageCode = "jp"
 DefaultContentLanguage = "jp"
+hasCJKLanguage = true
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
@@ -17,6 +18,8 @@ footnoteReturnLinkContents = "^"
     notice_color = "red"
     index_posts_num = 5
     google_search = true
+    math = false
+    katex = true
     # logo = "icon.jpg"
     # logo = "//blog.ertuil.top/avater.png"
     bio = """
@@ -41,7 +44,6 @@ footnoteReturnLinkContents = "^"
     """
     #copyright = "Copyright © 2020, Steve Francia and the Hugo Authors; all rights reserved. This page was created by Hugo."
     copyright = "Copyright © 2020, Tomoya HIRAKAWA, the Hugo Authors, and Steve Francia"
-    math = true
 
 [[menu.main]]
     identifier = "about"

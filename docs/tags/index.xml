@@ -6,7 +6,70 @@
     <description>Recent content in Tags on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 10:24:16 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayesian inference</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/bayesian-inference/</link>
+      <pubDate>Tue, 08 Dec 2020 10:24:16 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/tags/bayesian-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exchange MCMC</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/exchange-mcmc/</link>
+      <pubDate>Tue, 08 Dec 2020 10:24:16 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/tags/exchange-mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mixture model</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/mixture-model/</link>
+      <pubDate>Tue, 08 Dec 2020 10:24:16 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/tags/mixture-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スパース混合回帰モデル</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E6%B7%B7%E5%90%88%E5%9B%9E%E5%B8%B0%E3%83%A2%E3%83%87%E3%83%AB/</link>
+      <pubDate>Tue, 08 Dec 2020 10:24:16 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/tags/%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E6%B7%B7%E5%90%88%E5%9B%9E%E5%B8%B0%E3%83%A2%E3%83%87%E3%83%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ベイズ推定</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A/</link>
+      <pubDate>Tue, 08 Dec 2020 10:24:16 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/tags/%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>交換モンテカルロ法</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/%E4%BA%A4%E6%8F%9B%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B3%95/</link>
+      <pubDate>Tue, 08 Dec 2020 10:24:16 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/tags/%E4%BA%A4%E6%8F%9B%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>混合モデル</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB/</link>
+      <pubDate>Tue, 08 Dec 2020 10:24:16 +0900</pubDate>
+      
+      <guid>https://t0m0ya1997.github.io/blog/tags/%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>essay</title>
       <link>https://t0m0ya1997.github.io/blog/tags/essay/</link>
