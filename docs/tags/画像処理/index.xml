@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>research on Tomoya Hirakawa</title>
-    <link>https://t0m0ya1997.github.io/blog/categories/research/</link>
-    <description>Recent content in research on Tomoya Hirakawa</description>
+    <title>画像処理 on Tomoya Hirakawa</title>
+    <link>https://t0m0ya1997.github.io/blog/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/</link>
+    <description>Recent content in 画像処理 on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Wed, 09 Dec 2020 01:36:09 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Dec 2020 01:36:09 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最急降下法を画像を例に実感する</title>
       <link>https://t0m0ya1997.github.io/blog/post/gradient/</link>
