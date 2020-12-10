@@ -16,41 +16,41 @@ math: true
 
 最急降下法は最適化問題を解くための手法(最適化手法)で，そのシンプルさとは裏腹に，深層学習で用いられる[確率的勾配降下法](https://ja.wikipedia.org/wiki/確率的勾配降下法)(Stochastic Gradient Descent: SGD)などの様々な最適化手法の基礎となる重要な手法です．
 
-目的関数を$f:x\rightarrow y$とします．
-ここで引数 $x\in\mathbb R^d$, 返り値 $y\in\mathbb R$ とします．
-関数 $f$ の制約なしの最適化問題を考えます．
-「関数 $f$ を最小にする $x$ を $x^*$とする」すなわち
+目的関数を\\(f:\boldsymbol{x}\rightarrow y\\)とします．
+ここで引数 \\(\boldsymbol{x}\in\mathbb R^d\\), 返り値 \\(y\in\mathbb R\\) とします．
+関数 \\(f\\) の制約なしの最適化問題を考えます．
+「関数 \\(f\\) を最小にする \\(\boldsymbol{x}\\) を \\(\boldsymbol{x}^\*\\)とする」すなわち
 $$
-x^* = \arg\min_x f(x)
+\boldsymbol{x}^\* = \arg\min_x f(\boldsymbol{x})
 $$
 という問題を考えるわけです．
 
-このような問題に対して，最急降下法では以下の操作を繰り返すことによって最適解 $x^*$ を求めます．
+このような問題に対して，最急降下法では以下の操作を繰り返すことによって最適解 $\boldsymbol{x}^*$ を求めます．
 $$
-x^{(n+1)}\leftarrow x^{(n)} - \nu\nabla_x f(x^{(n)})
+\boldsymbol{x}^{(n+1)}\leftarrow \boldsymbol{x}^{(n)} - \nu\nabla_x f(\boldsymbol{x}^{(n)})
 $$
-ここで， $x^{(n)}$ は $n$ 回目の更新での変数 $x$ の値を意味しています．
-パラメータ $\nu$ はステップサイズと呼びます．
+ここで， \\(\boldsymbol{x}^{(n)}\\) は \\(n\\) 回目の更新での変数 \\(\boldsymbol{x}\\) の値を意味しています．
+パラメータ \\(\nu\\) はステップサイズと呼びます．
 
-反復ごとに効率的な目的関数の値を小さくするステップサイズ $\nu$ を決めていく[直線探索](https://ja.wikipedia.org/wiki/直線探索)の話もするべきなのですが，今回は割愛します．
+反復ごとに効率的な目的関数の値を小さくするステップサイズ \\(\nu\\) を決めていく[直線探索](https://ja.wikipedia.org/wiki/直線探索)の話もするべきなのですが，今回は割愛します．
 
 # 画像に対する最急降下法
 さて，最急降下法の説明はここまでにして，実際に使ってみましょう．
-今回は画像 $x\in\mathbb R^d$ を，何らかの画像 $t\in\mathbb R^d$ に最急降下法で近づけていくことを考えます．
+今回は画像 \\(\boldsymbol{x}\in\mathbb R^d\\) を，何らかの画像 \\(\boldsymbol{t}\in\mathbb R^d\\) に最急降下法で近づけていくことを考えます．
 
-今回はシンプルに目的関数を $x,t$ の２乗誤差を目的関数とし，
+今回はシンプルに目的関数を \\(\boldsymbol{x,t}\\) の２乗誤差を目的関数とし，
 $$
-x^* = \arg\min_x ||t-x||_2^2
+\boldsymbol{x}^\* = \arg\min_x ||\boldsymbol{t}-\boldsymbol{x}||_2^2
 $$
 という問題を考えます．
 目的関数が２次関数であるため，実はこの問題では最急降下法で大域的な最適解を得ることができますが，一般の問題に対しては最急降下法では局所解を求めるアルゴリズムであることに注意してください．
 目的関数の勾配は
 $$
-\nabla_x f(x) = -2(y-x)
+\nabla_x f(\boldsymbol{x}) = -2(\boldsymbol{t}-\boldsymbol{x})
 $$
 であるので，最急降下法での更新式は
 $$
-x^{(n+1)}\leftarrow x^{(n)} +2\nu(y-x^{(n)})
+\boldsymbol{x}^{(n+1)}\leftarrow \boldsymbol{x}^{(n)} +2\nu(\boldsymbol{t}-\boldsymbol{x}^{(n)})
 $$
 と導くことができます．
 
@@ -87,7 +87,7 @@ for _ in tqdm(range(10000)):
 writer.release()
 cv2.destroyAllWindows()
 ```
-上のコードを実行すると，mp4形式で砂嵐の初期画像 $x^{(0)}$ から，目標とする画像 $t$ へ近づいていく動画が保存されます．
+上のコードを実行すると，mp4形式で砂嵐の初期画像 \\(\boldsymbol{x}^{(0)}\\) から，目標とする画像 \\(\boldsymbol{t}\\) へ近づいていく動画が保存されます．
 [デモ](https://github.com/t0m0ya1997/gradient-descent)からダウンロードしていただくと簡単に実行できるので是非ご覧ください．
 
 # まとめ

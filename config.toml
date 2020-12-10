@@ -18,6 +18,7 @@ footnoteReturnLinkContents = "^"
     notice_color = "red"
     index_posts_num = 5
     google_search = true
+    math = true
     # logo = "icon.jpg"
     # logo = "//blog.ertuil.top/avater.png"
     bio = """
