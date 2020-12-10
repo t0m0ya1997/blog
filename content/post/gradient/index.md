@@ -5,6 +5,7 @@ date: 2020-12-09T01:36:09+09:00
 tags: ["gradient descent", "image processing", "勾配法", "画像処理", "Python"]
 categories: ["research", "study"]
 draft: false
+math: true
 ---
 # はじめに
 深層学習でもよく使われる最適化手法「最急降下法」の原理を紹介し，画像処理に適用してみたという記事です．
