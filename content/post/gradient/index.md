@@ -25,7 +25,7 @@ $$
 $$
 という問題を考えるわけです．
 
-このような問題に対して，最急降下法では以下の操作を繰り返すことによって最適解 $\boldsymbol{x}^*$ を求めます．
+このような問題に対して，最急降下法では以下の操作を繰り返すことによって最適解 $\boldsymbol{x}^\*$ を求めます．
 $$
 \boldsymbol{x}^{(n+1)}\leftarrow \boldsymbol{x}^{(n)} - \nu\nabla_x f(\boldsymbol{x}^{(n)})
 $$
