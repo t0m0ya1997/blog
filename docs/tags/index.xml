@@ -6,49 +6,40 @@
     <description>Recent content in Tags on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Wed, 09 Dec 2020 01:36:09 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 14:00:59 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gradient descent</title>
-      <link>https://t0m0ya1997.github.io/blog/tags/gradient-descent/</link>
-      <pubDate>Wed, 09 Dec 2020 01:36:09 +0900</pubDate>
+      <title>Bayesian inference</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/bayesian-inference/</link>
+      <pubDate>Tue, 08 Dec 2020 14:00:59 +0900</pubDate>
       
-      <guid>https://t0m0ya1997.github.io/blog/tags/gradient-descent/</guid>
+      <guid>https://t0m0ya1997.github.io/blog/tags/bayesian-inference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>image processing</title>
-      <link>https://t0m0ya1997.github.io/blog/tags/image-processing/</link>
-      <pubDate>Wed, 09 Dec 2020 01:36:09 +0900</pubDate>
+      <title>mixture model</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/mixture-model/</link>
+      <pubDate>Tue, 08 Dec 2020 14:00:59 +0900</pubDate>
       
-      <guid>https://t0m0ya1997.github.io/blog/tags/image-processing/</guid>
+      <guid>https://t0m0ya1997.github.io/blog/tags/mixture-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://t0m0ya1997.github.io/blog/tags/python/</link>
-      <pubDate>Wed, 09 Dec 2020 01:36:09 +0900</pubDate>
+      <title>ベイズ推定</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A/</link>
+      <pubDate>Tue, 08 Dec 2020 14:00:59 +0900</pubDate>
       
-      <guid>https://t0m0ya1997.github.io/blog/tags/python/</guid>
+      <guid>https://t0m0ya1997.github.io/blog/tags/%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>勾配法</title>
-      <link>https://t0m0ya1997.github.io/blog/tags/%E5%8B%BE%E9%85%8D%E6%B3%95/</link>
-      <pubDate>Wed, 09 Dec 2020 01:36:09 +0900</pubDate>
+      <title>混合モデル</title>
+      <link>https://t0m0ya1997.github.io/blog/tags/%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB/</link>
+      <pubDate>Tue, 08 Dec 2020 14:00:59 +0900</pubDate>
       
-      <guid>https://t0m0ya1997.github.io/blog/tags/%E5%8B%BE%E9%85%8D%E6%B3%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>画像処理</title>
-      <link>https://t0m0ya1997.github.io/blog/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/</link>
-      <pubDate>Wed, 09 Dec 2020 01:36:09 +0900</pubDate>
-      
-      <guid>https://t0m0ya1997.github.io/blog/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/</guid>
+      <guid>https://t0m0ya1997.github.io/blog/tags/%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB/</guid>
       <description></description>
     </item>
     
