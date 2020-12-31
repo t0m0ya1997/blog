@@ -8,7 +8,7 @@ const gs = [];
 const bs = [];
 
 function setup() {
-    var myCanvas = createCanvas(windowWidth, windowHeight);
+    var myCanvas = createCanvas(innerWidth, innerHeight);
     for (let i = 0; i < num; i++) {
         ax[i] = width / 2;
         ay[i] = height / 2;
@@ -44,4 +44,8 @@ function draw() {
         stroke(128, ax[j-1]/width*255, ay[j-1]/height*255, val);
         line(ax[j - 1], ay[j - 1], ax[j], ay[j]);
     }
+}
+
+function windowResized() {
+    resizeCanvas(innerWidth, innerHeight);
 }

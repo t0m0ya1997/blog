@@ -6,16 +6,7 @@
     <description>Recent content on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Tue, 08 Dec 2020 14:00:59 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>スパース混合回帰モデル1(混合モデル)</title>
-      <link>https://t0m0ya1997.github.io/blog/post/sparsemcmc/1/</link>
-      <pubDate>Tue, 08 Dec 2020 14:00:59 +0900</pubDate>
-      
-      <guid>https://t0m0ya1997.github.io/blog/post/sparsemcmc/1/</guid>
-      <description>はじめに 本シリーズでは，現時点（修士１年）で研究している「スパース混合回帰モデル」について解説をします． 「スパース混合回帰モデル」＝「スパー</description>
-    </item>
-    
+    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://t0m0ya1997.github.io/blog/post/hello/</link>
