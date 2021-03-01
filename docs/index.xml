@@ -6,14 +6,14 @@
     <description>Recent content on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Mon, 07 Dec 2020 17:14:37 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 14:32:00 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello</title>
-      <link>https://t0m0ya1997.github.io/blog/post/hello/</link>
-      <pubDate>Mon, 07 Dec 2020 17:14:37 +0900</pubDate>
+      <title>Optuna を使ってみた話</title>
+      <link>https://t0m0ya1997.github.io/blog/post/optuna/</link>
+      <pubDate>Wed, 24 Feb 2021 14:32:00 +0900</pubDate>
       
-      <guid>https://t0m0ya1997.github.io/blog/post/hello/</guid>
-      <description>こんにちは，本日よりこちらのリンクでブログを始めます． KaTeX test $$ \mathcal N(x|\mu,\sigma^2)=\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{(x-\mu)^2}{2\sigma}\right). $$</description>
+      <guid>https://t0m0ya1997.github.io/blog/post/optuna/</guid>
+      <description>はじめに 先日、某社の短期インターンシップという名の、数週間にわたる機械学習コンペに参加しておりました。 コンペ初心者だった僕は、ハイパラ調整を</description>
     </item>
     
     <item>

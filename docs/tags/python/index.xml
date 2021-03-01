@@ -6,14 +6,14 @@
     <description>Recent content in Python on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Wed, 09 Dec 2020 01:36:09 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 14:32:00 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>最急降下法を画像を例に実感する</title>
-      <link>https://t0m0ya1997.github.io/blog/post/gradient/</link>
-      <pubDate>Wed, 09 Dec 2020 01:36:09 +0900</pubDate>
+      <title>Optuna を使ってみた話</title>
+      <link>https://t0m0ya1997.github.io/blog/post/optuna/</link>
+      <pubDate>Wed, 24 Feb 2021 14:32:00 +0900</pubDate>
       
-      <guid>https://t0m0ya1997.github.io/blog/post/gradient/</guid>
-      <description>はじめに 深層学習でもよく使われる最適化手法「最急降下法」の原理を紹介し，画像処理に適用してみたという記事です． 最急降下法 そもそも最適化問題と</description>
+      <guid>https://t0m0ya1997.github.io/blog/post/optuna/</guid>
+      <description>はじめに 先日、某社の短期インターンシップという名の、数週間にわたる機械学習コンペに参加しておりました。 コンペ初心者だった僕は、ハイパラ調整を</description>
     </item>
     
   </channel>

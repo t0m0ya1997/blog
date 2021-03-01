@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tomoya Hirakawa</title>
-    <link>https://t0m0ya1997.github.io/blog/post/</link>
-    <description>Recent content in Posts on Tomoya Hirakawa</description>
+    <title>Optuna on Tomoya Hirakawa</title>
+    <link>https://t0m0ya1997.github.io/blog/tags/optuna/</link>
+    <description>Recent content in Optuna on Tomoya Hirakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Wed, 24 Feb 2021 14:32:00 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 14:32:00 +0900</lastBuildDate><atom:link href="https://t0m0ya1997.github.io/blog/tags/optuna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optuna を使ってみた話</title>
       <link>https://t0m0ya1997.github.io/blog/post/optuna/</link>
