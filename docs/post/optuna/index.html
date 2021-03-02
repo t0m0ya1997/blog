@@ -189,13 +189,14 @@ layui.use('element', function(){
                     <h1 id="はじめに">はじめに</h1>
 <p>先日、某社の短期インターンシップという名の、数週間にわたる機械学習コンペに参加しておりました。
 コンペ初心者だった僕は、ハイパラ調整をGridSearchで行なっていましたが、「Optuna使ってみぃな」と言われました。
-いざ実際に使ってみるとすごく便利だったので忘備録もかねて書き残しておきます。</p>
+いざ実際に使ってみるとすごく便利だったので備忘録もかねて書き残しておきます。</p>
 <h1 id="インストール環境">インストール・環境</h1>
 <p>インストールは、きちんと環境を管理できているのであれば</p>
 <pre><code>pip install optuna
 </code></pre><p>というようにpipで一発です。
 Python 環境の管理が面倒だよ、、、という方には<a href="https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c">anyenv</a>がおすすめです。</p>
 <h1 id="早速使ってみる回帰問題編">早速使ってみる：回帰問題編</h1>
+<p>回帰問題、分類問題で使用したコードは<a href="optuna.py">こちら</a></p>
 <p>では早速、Lasso回帰問題で試してみることにします。
 今回はscikit-learn、optuna、numpy を使用していきます。
 今回は擬似的に回帰問題を生成し、その問題に対してLassoの正則化パラメータの<code>alpha</code>を最適化していきます。</p>
@@ -283,6 +284,7 @@ lasso(tuned):  0.013978818141855793
 </code></pre><p>検証データに対する精度がかなり向上しました！
 かなりハイパラ調整が効いていますね。</p>
 <h1 id="早速使ってみる分類問題編">早速使ってみる：分類問題編</h1>
+<p>回帰問題、分類問題で使用したコードは<a href="optuna.py">こちら</a></p>
 <p>分類問題では、Random Forest のハイパラを調整していきます。
 Random Forest は「決定木のバギング」をベースとした学習器です。
 今回は</p>
@@ -357,7 +359,7 @@ RandomForest(tuned):  0.9
 回帰、分類の例で確かに学習器の能力向上が見受けられました。
 しかしながら、必ずしも調整した学習器が性能が上ということにならないケースもあるようです。
 他の学習器についても同様の形式でハイパラの調整ができるので、紹介したコードをいじりながら是非、他のモデルでのハイパラ調整も行ってみてください！</p>
-<h2 id="参考文献">参考文献</h2>
+<h2 id="参考">参考</h2>
 <ol>
 <li><a href="https://optuna.readthedocs.io/en/stable/">Optuna公式</a></li>
 <li><a href="https://qiita.com/studio_haneya/items/2dc3ba9d7cafa36ddffa">optuna入門</a></li>
@@ -374,6 +376,45 @@ RandomForest(tuned):  0.9
             <div class="layui-card single-card">
                 <h2 class="single-title">Recent Posts</h2>
             
+                
+                <div style="margin-left: 10px;">
+                    <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
+                    <a href="/blog/post/stacking/">
+                        <h3 class="">scikit-learnによるStackingの実装</h3>
+                    </a>
+                    <h3 style="margin-top:10px; margin-bottom:10px"> 
+    <i class="layui-icon layui-icon-date" style="font-size: 28px; vertical-align: -2px;"></i>
+    <span>2021-03-02</span>
+
+    
+     
+    <i class="layui-icon layui-icon-list" style="font-size: 32px; vertical-align: -3px;"></i>
+    
+
+    
+        <a href="/blog/categories/%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92/">
+            <span class="layui-badge layui-bg-orange" style="vertical-align: 2px;">機械学習</span>
+        </a>
+    
+
+    
+    <i class="layui-icon layui-icon-tabs" style="font-size: 22px; vertical-align: 1px;margin-right:2px;"></i>
+    
+
+    
+        <a href="/blog/tags/ensemble/">
+            <span class="layui-badge layui-bg-orange" style="vertical-align: 2px;">Ensemble</span>
+        </a>
+    
+        <a href="/blog/tags/python/">
+            <span class="layui-badge layui-bg-orange" style="vertical-align: 2px;">Python</span>
+        </a>
+    
+    
+</h3>
+
+                    </blockquote>
+                </div>
                 
                 <div style="margin-left: 10px;">
                     <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
